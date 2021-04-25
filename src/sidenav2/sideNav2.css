@@ -166,9 +166,9 @@ input.sidenav2-search-input {
     right: 0;
     background-color: var(--primary);
     height: 10vw;
-    min-width: 95vw;
+    width: 97vw;
     
-    padding: 0.5vw 1rem;
+    padding: 0.5vw 1vw;
     display: flex;
     align-items: center;
     justify-content: space-between;

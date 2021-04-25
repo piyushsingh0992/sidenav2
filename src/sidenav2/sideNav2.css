@@ -213,16 +213,17 @@ input.sidenav2-search-input {
 
     transition: all 0.5s ease;
 
-    font-size: 1rem;
+    
     color: var(--primary-text);
   }
 
   .sidenav2-route > a {
     color: var(--white);
+    font-size: 0.7rem;
   }
 
   .sidenav2-dropdown-burger-icon {
-    height: 2rem;
+    height: 1.8rem;
     object-fit: contain;
     display: block;
 

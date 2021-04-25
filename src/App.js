@@ -32,7 +32,6 @@ function App() {
 
   
   let routes=[{ text: "HOME" },{ text: "GITHUB" }]
-  // routeArray={} brand={}
 
   return (
     <div classtext="App">
